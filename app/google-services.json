@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900179706989",
+    "firebase_url": "https://cardview-d53eb.firebaseio.com",
+    "project_id": "cardview-d53eb",
+    "storage_bucket": "cardview-d53eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900179706989:android:c20919f91b1486b7",
+        "android_client_info": {
+          "package_name": "com.jabespauya.cardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900179706989-elbprm40mdhluasrs1phrng3g3usebnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jabespauya.cardview",
+            "certificate_hash": "b56945764f74a00a04e5055da57b64464e026eda"
+          }
+        },
+        {
+          "client_id": "900179706989-gkhv66ctfcsd5eua0sebqtlh86e2benf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBMVf5gGbTraB4YMr33E4v9hb1190ujc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900179706989-gkhv66ctfcsd5eua0sebqtlh86e2benf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
