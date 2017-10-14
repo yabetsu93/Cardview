@@ -10,12 +10,13 @@ public class Nature {
     private String _mDescription;
     private String _mImage;
 
+
     public Nature(){}
 
-    public Nature(String title, String description, String image){
-        this._mImage = image;
+    public Nature(String Image, String title, String description) {
         this._mDescription = description;
         this._mTitle = title;
+        this._mImage = Image;
     }
 
     public String get_mTitle() {
@@ -41,4 +42,5 @@ public class Nature {
     public void set_mImage(String _mImage) {
         this._mImage = _mImage;
     }
+
 }
