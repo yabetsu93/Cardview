@@ -102,8 +102,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.upload_naturespot_entry);
 
-        final EditText editTitle = dialog.findViewById(R.id.setTitle);
-        final EditText editDescription = dialog.findViewById(R.id.setDescription);
+        final EditText editTitle = dialog.findViewById(R.id.inputTitle);
+        final EditText editDescription = dialog.findViewById(R.id.inputDescription);
 
         final Button btnSave = dialog.findViewById(R.id.btnSaveEntry);
         final Button btnCancel = dialog.findViewById(R.id.btnCancel);
